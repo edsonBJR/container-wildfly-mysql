@@ -1,2 +1,2 @@
-# container-wildfly-mysql
-# container-wildfly-mysql
+# Dockerfile - Container para deploy de aplicações Java
+
